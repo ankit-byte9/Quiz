@@ -1,35 +1,35 @@
 # Quiz
 
-#CLI Quiz Application
+# CLI Quiz Application
 
 A command-line quiz system built in Python with user authentication and score tracking.
 
-Features
+# Features:
 
-User Registration & Login
+  User Registration & Login
 
-Quiz Categories (Python, DSA, DBMS)
+  Quiz Categories (Python, DSA, DBMS)
 
-JSON-based Question Loading
+  JSON-based Question Loading
 
-Score Logging
+  Score Logging
 
-Profile Update System
+  Profile Update System
 
-Tech Stack
+# Tech Stack
 
-Python
+  Python
 
-JSON
+  JSON
 
-File Handling
+  File Handling
 
-Future Improvements
+# Future Improvements
 
-Password hashing
+  Password hashing
 
-Database integration
+  Database integration
 
-Docker containerization
+  Docker containerization
 
-REST API conversion
+  REST API conversion
