@@ -1,0 +1,36 @@
+{   "dbms": {
+        "name": "Database Management Systems",
+        "questions": [
+            {
+                "question": "Which property of a database transaction ensures that either all operations are reflected in the database or none are?",
+                "options": ["Consistency", "Atomicity", "Isolation", "Durability"],
+                "correct": 1,
+                "difficulty": "medium"
+            },
+            {
+                "question": "Which SQL constraint uniquely identifies each record in a table and cannot contain NULL values?",
+                "options": ["UNIQUE", "FOREIGN KEY", "PRIMARY KEY", "CHECK"],
+                "correct": 2,
+                "difficulty": "easy"
+            },
+            {
+                "question": "What type of relationship exists when one row in Table A can be linked to many rows in Table B, but one row in Table B links to only one row in Table A?",
+                "options": ["One-to-One", "Many-to-Many", "One-to-Many", "Self-Join"],
+                "correct": 2,
+                "difficulty": "medium"
+            },
+            {
+                "question": "In the context of Normalization, which form deals with removing partial functional dependencies (ensuring every non-key attribute depends on the entire primary key)?",
+                "options": ["1NF", "2NF", "3NF", "BCNF"],
+                "correct": 1,
+                "difficulty": "hard"
+            },
+            {
+                "question": "Which SQL command is used to remove all records from a table without deleting the table structure itself?",
+                "options": ["DROP", "DELETE", "REMOVE", "TRUNCATE"],
+                "correct": 3,
+                "difficulty": "medium"
+            }
+        ]
+    }
+}

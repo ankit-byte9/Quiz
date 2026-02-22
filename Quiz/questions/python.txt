@@ -1,0 +1,36 @@
+{"python": {
+        "name": "Python Programming",
+        "questions": [
+            {
+                "question": "Which method is used to remove leading and trailing whitespace (including newlines) from a string?",
+                "options": [".split()", ".strip()", ".clean()", ".remove()"],
+                "correct": 1,
+                "difficulty": "easy"
+            },
+            {
+                "question": "What does the '.split(',')' method return when called on a string?",
+                "options": ["A new string", "A tuple", "A list of substrings", "An integer"],
+                "correct": 2,
+                "difficulty": "easy"
+            },
+            {
+                "question": "Which mode should you use in the 'open()' function to add data to the end of an existing file without overwriting it?",
+                "options": ["'r'", "'w'", "'a'", "'x'"],
+                "correct": 2,
+                "difficulty": "medium"
+            },
+            {
+                "question": "What error is raised when you try to unpack more variables than there are items in a list?",
+                "options": ["TypeError", "KeyError", "IndexError", "ValueError"],
+                "correct": 3,
+                "difficulty": "medium"
+            },
+            {
+                "question": "Which statement is used to exit a 'for' loop prematurely once a condition (like a successful login) is met?",
+                "options": ["stop", "exit", "break", "continue"],
+                "correct": 2,
+                "difficulty": "easy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{   "dsa": {
+        "name": "Data Structures & Algorithms",
+        "questions": [
+            {
+                "question": "Which data structure follows the Last-In-First-Out (LIFO) principle?",
+                "options": ["Queue", "Linked List", "Stack", "Binary Tree"],
+                "correct": 2,
+                "difficulty": "easy"
+            },
+            {
+                "question": "What is the average time complexity for searching an element in a Hash Table?",
+                "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+                "correct": 0,
+                "difficulty": "medium"
+            },
+            {
+                "question": "Which algorithm uses the 'Divide and Conquer' strategy to sort an array?",
+                "options": ["Bubble Sort", "Merge Sort", "Insertion Sort", "Selection Sort"],
+                "correct": 1,
+                "difficulty": "medium"
+            },
+            {
+                "question": "In a Singly Linked List, what is the time complexity to delete a node given only a pointer to that node?",
+                "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+                "correct": 1,
+                "difficulty": "hard"
+            },
+            {
+                "question": "Which data structure is typically used to implement Breadth-First Search (BFS)?",
+                "options": ["Stack", "Priority Queue", "Queue", "Max Heap"],
+                "correct": 2,
+                "difficulty": "medium"
+            }
+        ]
+    }
+}
